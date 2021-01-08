@@ -11,7 +11,8 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
-  # Your code here
+  # returns true if longer than 4, false if less 
+  
 end
 
 def find_the_cheese# code an argument here
