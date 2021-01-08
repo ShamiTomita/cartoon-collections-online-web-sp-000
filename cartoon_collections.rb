@@ -28,7 +28,7 @@ def find_the_cheese(array)
     if x = cheese_types[0]||[1]||[2]
       #return cheese_types[0] || [1] || [2]
       return x 
-    else 
+    elsif 
       return nil 
     end 
   end 
