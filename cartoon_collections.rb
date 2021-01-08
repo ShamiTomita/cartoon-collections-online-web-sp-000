@@ -28,8 +28,6 @@ def find_the_cheese(array)
     if x = cheese_types[0]||[1]||[2]
       #return cheese_types[0] || [1] || [2]
       return x 
-    elsif 
-      return nil 
     end 
   end 
 end
